@@ -21,7 +21,7 @@ Após conversa com a equipe local de tecnogia da informação do cliente, fomos 
 <br><br><br><br><br><br><br><br><br>
 
 ## Medidas
-<img align="right" width="500" height="">
+<img align="right" width="500" height="https://github.com/camilla-menezes/ContosoPortifolio/blob/main/Imagens/Captura%20de%20tela%202025-04-30%20162857.png?raw=true">
 Identificado a necessidade do cliente, as regras de negócio e a aplicação das mesmas no modelo de dados, iniciamos o desenvolvimento.<br>
 <br>
 Principais medidas desenvolvidas;<br>
