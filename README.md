@@ -14,14 +14,15 @@ Principais problemas relatados pelo requisitante:
 <br><br>
 
 ## Modelo e fonte de dados 
-<img align="left" width="500" height="320" src="https://github.com/camilla-menezes/ContosoPortifolio/blob/main/Imagens/Captura%20de%20tela%202025-04-29%20170506.png?raw=true">
+<img align="left" width="500" src="https://github.com/camilla-menezes/ContosoPortifolio/blob/main/Imagens/Captura%20de%20tela%202025-04-29%20170506.png?raw=true">
 Após conversa com a equipe local de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
 
 
 <br><br><br><br><br><br><br><br><br>
 
 ## Medidas
-<img align="right" width="500" height="https://github.com/camilla-menezes/ContosoPortifolio/blob/main/Imagens/Captura%20de%20tela%202025-04-30%20162857.png?raw=true">
+<img align="right" width="540" height="300" src="https://github.com/camilla-menezes/ContosoPortifolio/blob/main/Imagens/Captura%20de%20tela%202025-04-30%20162857.png?raw=true">
+<br>
 Identificado a necessidade do cliente, as regras de negócio e a aplicação das mesmas no modelo de dados, iniciamos o desenvolvimento.<br>
 <br>
 Principais medidas desenvolvidas;<br>
