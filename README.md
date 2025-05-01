@@ -26,7 +26,7 @@ Após conversa com a equipe local de tecnogia da informação do cliente, fomos 
 Identificado a necessidade do cliente, as regras de negócio e a aplicação das mesmas no modelo de dados, iniciamos o desenvolvimento.<br>
 <br>
 Principais medidas desenvolvidas;<br>
- - Custos, Receitas, Lucro, Entregas<br>
+ - Custos, Receitas e Lucro<br>
  -  Medidas de inteligência temporal para comparação de performance e resultados entre períodos distintos ou cumulativos.<br>
  <br>
 Para organizar as medidas, criamos uma tabela contendo todas as medidas, sempre seguindo a padronização dos nomes.<br>
